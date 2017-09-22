@@ -7,7 +7,7 @@ public class Tablice {
     //tab[0] = 15;
     //tab[1] = 5;
 
-    String[] napisy = {"Abc", "kot", "pies"};
+    String[] napisy = {"Ala", "kot", "pies" , "dupek"};
 //    live template
 
 
